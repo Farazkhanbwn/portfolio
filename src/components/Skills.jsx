@@ -34,10 +34,10 @@ let skills = [
     img: ReactImg,
     text: "ReactJS",
   },
-  {
-    img: Svelte,
-    text: "Svelte",
-  },
+  // {
+  //   img: Svelte,
+  //   text: "Svelte",
+  // },
   {
     img: NextJS,
     text: "NextJS",
