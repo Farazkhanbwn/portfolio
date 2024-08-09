@@ -13,7 +13,7 @@ const About = () => {
           </div>
           <div className="bg-white py-10 px-8 text-gray-900 text-left flex m-auto">
             <p>
-              I am passionate about building excellent websites & web
+               I am passionate about building excellent websites & web
               applications according to clients requirements. Which are ranging
               from individuals and small-businesses all the way to large
               enterprise corporations. What would you do if you had a expert web
