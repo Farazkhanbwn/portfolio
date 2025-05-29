@@ -17,7 +17,7 @@ function Work() {
                 Software Engineer
               </span>
               <span className="block text-sm pl-3">
-                ( OOP Technologies | February 2024 - Present )
+                ( Sparkix Technologies | August 2024 - Present )
               </span>
             </h3>
 
@@ -50,10 +50,10 @@ function Work() {
           <article className="work-content ml-6 mb-8">
             <h3 className="work-heading text-2xl font-bold text-gray-300 mb-3">
               <span className="border-l-4 border-orange-700 pl-2 mb-1 block">
-                Software Engineer - MERN Stack
+                Software Engineer
               </span>
               <span className="block text-sm pl-3">
-                ( 7 Skies Solutions | July 2021 - January 2024 )
+                ( 7 Skies Solutions | April 2022 - July 2024 )
               </span>
             </h3>
 
